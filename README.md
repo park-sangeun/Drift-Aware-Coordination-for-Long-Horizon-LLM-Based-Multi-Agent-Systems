@@ -1,1 +1,1 @@
-# Drift-Aware-Coordination-for-Long-Horizon-LLM-Based-Multi-Agent-Systems
+# Drift-Aware Coordination Learning for LLM-Based Multi-Agent Systems
